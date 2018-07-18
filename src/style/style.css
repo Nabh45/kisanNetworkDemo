@@ -1,0 +1,119 @@
+.navigation-menu {
+    list-style-type: none;
+    display: inline;
+}
+
+.navigation-menu1 {
+    list-style-type: none;
+}
+
+.navigation-menu li {
+    display: inline;
+    padding: 12px;
+    cursor: pointer;
+}
+
+.align-rt {
+    text-align: right;
+}
+
+.navigation {
+    padding: 10px 0;
+    background: #000;
+    color: #fff;
+}
+
+.container-head {
+    background: grey;
+    height: 150px;
+    clear: both;
+    padding-top: 25px;
+}
+
+.container-head p {
+    color: #fff;
+    background: #d6951d;
+    max-width: 560px;
+    padding: 2px;
+    font-size: 14px;
+}
+
+.container-body {
+    padding-top: 25px;
+}
+
+.content-txt {
+    padding-top: 25px;
+    font-size: 150%;
+    font-family: courier;
+}
+
+.partition-div {
+    position: relative;
+    padding: 10px;
+}
+
+.partition-div h1 {
+    position: absolute;
+    top: -8px;
+    /* left: 35%; */
+    background: white;
+}
+
+.right-bar {
+    text-align: center;
+}
+
+.right-bar .submenu {
+    border: 2px solid grey;
+    padding-bottom: 25px
+}
+
+.right-bar .submenu ul {
+    list-style-type: none;
+    color: green;
+    margin: 0px;
+    padding: 0px;
+    padding-bottom: 10px;
+}
+
+.image-header {
+    color: lightgreen;
+    padding: 10px 0;
+}
+
+.article-div {
+    border: 2px solid grey;
+    /* width: 31%; */
+    padding: 10px;
+    margin: 10px;
+    float: left;
+}
+
+.article-div h1 {
+    color: green;
+    width: auto;
+}
+
+.bg-green {
+    color: #fff;
+    background-color: green;
+    padding: 5px;
+}
+
+ul {
+    padding: 0;
+}
+
+ul li {
+    list-style-type: none;
+}
+
+.no-padding {
+    padding: 0px;
+}
+
+.padding-10 {
+    padding: 10px;
+}
+
