@@ -128,10 +128,10 @@ class Home extends React.Component {
                         <ControlLabel>Nabhdeep Singh</ControlLabel>
                         <br />
                         <strong style={{paddingRight:'10%', paddingLeft:'10%'}}>Email</strong>
-                        <ControlLabel>abcdefghijkl@gmail.com</ControlLabel>
+                        <ControlLabel>abcdl@gmail.com</ControlLabel>
                         <br />
                         <strong style={{paddingRight:'10%', paddingLeft:'10%'}}>Phone</strong>
-                        <ControlLabel>8010544716</ControlLabel>
+                        <ControlLabel>+91 8010544716</ControlLabel>
                         <br />
                     </div>
 
